@@ -1,7 +1,9 @@
 # Fortnite Builds
 The largest Fortnite Builds Archive maintained by simplyblk. 
 
-## Want to help me cover storage and egress costs? Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
+## Want to help me cover storage costs? (for cdn.aufgeladen.dev) Donate [here!](https://paypal.me/aufgeladen)
+
+## Want to help blk cover storage and egress costs? (for public.simplyblk.xyz) Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
 
 ## Usage & Other information.
 
