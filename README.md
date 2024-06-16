@@ -5,17 +5,11 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 
 ## Usage & Other information.
 
-Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), and [Crunnie.](https://github.com/Crunnie)
+Credits: [blk](https://github.com/simplyblk/Fortnitebuilds)
 
-If you wish to contribute anything that isn't listed here, DM simplyblk or Email me @ support@fnbuilds.services
+If you wish to contribute anything that isn't listed here, DM Aufgeladen or email me: Aufgeladen@aufgeladen.dev
 
-Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficient downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)
-
-If you decide to use this for a project, you must provide credit of this GitHub repo.
-
-Fortnite Switch Archive: https://github.com/simplyblk/FortniteSwitchBuilds
-
-My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact me).
+you can use cdn.aufgeladen.dev links without any credit for your own project!
 
 # Downloads
 
@@ -63,7 +57,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		https://public.simplyblk.xyz/4.0.zip|
-| 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://public.simplyblk.xyz/4.1.zip|
+| 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://cdn.aufgeladen.dev/4.1.zip|
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://public.simplyblk.xyz/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://public.simplyblk.xyz/4.4.rar|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
@@ -118,7 +112,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.30.rar|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://public.simplyblk.xyz/8.50.zip|
-| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.51.rar|
+| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://cdn.aufgeladen.dev/8.51.zip|
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
