@@ -63,7 +63,7 @@ you can use cdn.aufgeladen.dev links without any credit for your own project!
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://public.simplyblk.xyz/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://public.simplyblk.xyz/4.4.rar|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
-| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://public.simplyblk.xyz/4.5.rar|
+| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://cdn.aufgeladen.dev/4.5.zip|
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
@@ -153,7 +153,7 @@ you can use cdn.aufgeladen.dev links without any credit for your own project!
 | 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		https://public.simplyblk.xyz/12.21.zip|
 | 12.30-CL-N/A	                | 31-03-20         	 | UE4.25            	    |		N/A|
 | 12.40-CL-N/A	                | 15-04-20         	 | UE4.25            	    |		N/A|
-| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://public.simplyblk.xyz/Fortnite%2012.41.zip|
+| 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.aufgeladen.dev/12.41.zip|
 | 12.50-CL-N/A	                | 29-04-20         	 | UE4.25            	    |		https://public.simplyblk.xyz/12.50.zip|
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
 | 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://public.simplyblk.xyz/12.61.zip|
