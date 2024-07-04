@@ -72,7 +72,7 @@ you can use cdn.aufgeladen.dev links without any credit for your own project!
 | 5.00-CL-4214610	  	| 12-07-18       	 | UE4.21-4214610	    |		https://public.simplyblk.xyz/5.0.1.rar|
 | 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		https://public.simplyblk.xyz/5.10.rar|
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://public.simplyblk.xyz/5.21.rar|
-| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://public.simplyblk.xyz/5.30.rar|
+| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://cdn.aufgeladen.dev/5.30.zip|
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://public.simplyblk.xyz/5.40.rar|
 | 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://cdn.aufgeladen.dev/5.41.zip|
 
