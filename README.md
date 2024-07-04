@@ -58,9 +58,9 @@ you can use cdn.aufgeladen.dev links without any credit for your own project!
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		https://public.simplyblk.xyz/4.0.zip|
+| 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		https://cdn.aufgeladen.dev/4.0.zip|
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://cdn.aufgeladen.dev/4.1.zip|
-| 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://public.simplyblk.xyz/4.2.zip|
+| 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://cdn.aufgeladen.dev/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://public.simplyblk.xyz/4.4.rar|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://cdn.aufgeladen.dev/4.5.zip|
