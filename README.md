@@ -47,13 +47,13 @@ you can use cdn.aufgeladen.dev links without any credit for your own project!
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	https://public.simplyblk.xyz/3.0.zip |
+| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	https://cdn.aufgeladen.dev/3.0.zip |
 | 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://public.simplyblk.xyz/3.1.rar|
-| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://public.simplyblk.xyz/3.1.1.zip|
-| 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://public.simplyblk.xyz/3.2.zip|
+| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://cdn.aufgeladen.dev/3.1.1.zip|
+| 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://cdn.aufgeladen.dev/3.2.zip|
 | 3.3-CL-3942182                | 15-03-18               | UE4.20-3942182           | https://public.simplyblk.xyz/3.3.rar|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://public.simplyblk.xyz/3.5.rar|
-| 3.6-CL-4019403          	| 24-04-18       	 | UE4.20-4019403	    | 		https://public.simplyblk.xyz/3.6.zip|
+| 3.6-CL-4019403          	| 24-04-18       	 | UE4.20-4019403	    | 		https://cdn.aufgeladen.dev/3.6.zip|
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
