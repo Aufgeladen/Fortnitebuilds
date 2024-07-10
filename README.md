@@ -9,7 +9,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 
 Credits: [blk](https://github.com/simplyblk/Fortnitebuilds)
 
-If you wish to contribute anything that isn't listed here, DM Aufgeladen or email me: Aufgeladen@aufgeladen.dev
+If you wish to contribute anything that isn't listed here, DM Aufgeladen or email me: Aufgeladen@aufgeladen.dev or use this form https://forms.gle/oPHgumEeLtrKWU4v6
 
 you can use cdn.aufgeladen.dev links without any credit for your own project!
 
