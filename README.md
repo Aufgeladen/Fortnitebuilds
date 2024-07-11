@@ -1,4 +1,5 @@
 # Fortnite Builds
+https://license.aufgeladen.dev
 The largest Fortnite Builds Archive maintained by simplyblk. 
 
 ## Want to help me cover storage costs? (for cdn.aufgeladen.dev) Donate [here!](https://paypal.me/aufgeladen)
