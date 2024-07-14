@@ -15,6 +15,8 @@ If you wish to contribute anything that isn't listed here, DM Aufgeladen or emai
 
 you can use cdn.aufgeladen.dev links without any credit for your own project!
 
+# READ https://license.aufgeladen.dev BEFORE USING THIS FOR YOUR PROJECT! THE **LICENSE IS THERE FOR A REASON AND WILL BE ENFORCED**
+
 # Downloads
 
 # Pre-BattleRoyale
