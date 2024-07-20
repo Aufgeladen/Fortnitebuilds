@@ -140,7 +140,7 @@ you can use cdn.aufgeladen.dev links without any credit for your own project!
 | 10.20-CL-8456527	             | 27-08-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.20.zip|
 | 10.30-CL-N/A	                 | 11-09-19         	     | UE4.23            |		N/A|
 | 10.31-CL-8723043	             | 18-09-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.31.zip|
-| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23            |		https://public.simplyblk.xyz/10.40.rar|
+| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23            |		https://cdn.aufgeladen.dev/10.40.zip|
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
