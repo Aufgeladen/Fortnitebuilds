@@ -152,9 +152,9 @@ you can use cdn.aufgeladen.dev links without any credit for your own project!
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://public.simplyblk.xyz/12.00.rar|
-| 12.10-CL-N/A	                | 03-03-20         	 | UE4.24           	    |		N/A|
+| 12.10-CL-N/A	                | 03-03-20         	 | UE4.24           	    |		https://cdn.aufgeladen.dev/12.10.zip|
 | 12.20-CL-N/A	                | 17-03-20       	 | UE4.24            	    |		N/A|
-| 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		https://public.simplyblk.xyz/12.21.zip|
+| 12.21-CL-N/A	                | 24-03-20         	 | UE4.25            	    |		https://cdn.aufgeladen.dev/12.21.zip|
 | 12.30-CL-N/A	                | 31-03-20         	 | UE4.25            	    |		N/A|
 | 12.40-CL-N/A	                | 15-04-20         	 | UE4.25            	    |		N/A|
 | 12.41-CL-12905909	          | 21-04-20       	 | UE4.25            	    |		https://cdn.aufgeladen.dev/12.41.zip|
