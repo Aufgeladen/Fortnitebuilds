@@ -135,7 +135,7 @@ you can use cdn.aufgeladen.dev links without any credit for your own project!
 # Season X/10
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 10.00-CL-7704164	             | 01-08-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.00.zip|
+| 10.00-CL-7704164	             | 01-08-19         	     | UE4.23            |	https://cdn.aufgeladen.dev/10.00.zip|
 | 10.10-CL-7955722	             | 10-08-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.10.zip|
 | 10.20-CL-8456527	             | 27-08-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.20.zip|
 | 10.30-CL-N/A	                 | 11-09-19         	     | UE4.23            |		N/A|
